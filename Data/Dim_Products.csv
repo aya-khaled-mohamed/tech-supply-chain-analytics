@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Brand,Unit_Cost,Reorder_Level
+101,RAM 16GB DDR4,Memory,Kingston,80.0,20
+102,SSD 1TB NVMe,Storage,Samsung,120.0,15
+103,"Monitor 24"" 144Hz",Displays,LG,250.0,10
+104,Intel i7-12700K,Processors,Intel,350.0,5
+105,Logitech G502,Peripherals,Logitech,50.0,30
+106,RTX 3060,GPU,NVIDIA,400.0,8
+101,RAM 16GB DDR4,RAM,Kingston,80.0,20
+107,HDD 2TB,Storage,Seagate,60.0,25
+108,Mechanical Keyboard,Peripherals,Razer,,15
+109,Webcam 1080p,Video,Logitech,70.0,20

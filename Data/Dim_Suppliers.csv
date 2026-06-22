@@ -1,0 +1,6 @@
+Supplier_ID,Supplier_Name,Country,Lead_Time,Quality_Rating
+S1,Global Tech,China,10,4.5
+S2,Asia Electronics,Taiwan,15 days,4.8
+S3,Euro Parts,Germany,7,4.2
+S4,US Components,USA,12,4.9
+S5,Middle East IT,Egypt,5,3.8
